@@ -14,10 +14,10 @@ printf("Infinit loop incoming :(\n");
 i = 0;
 
 /*
- *while(i < 10)
+ *while(1 < 10)
  *{
- *Infinit loo[ - Mo increase of variables
- *putchar(i);
+ *Infinit loop - No increase of variables
+ *putchar(1);
 }
 */
 
